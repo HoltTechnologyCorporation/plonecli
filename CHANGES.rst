@@ -7,6 +7,9 @@ History
 - Fix typos, ReST formatting and update content of README.rst.
   [staeff]
 
+- Improve README
+  [svx]
+
 
 1.1 (2019-04-14)
 ----------------
